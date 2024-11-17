@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Harari Supreme Court web portal**
 
-- 👨‍💻 All of my projects are available at [http://hitaweb.infinityfreeapp.com/](http://hitaweb.infinityfreeapp.com/)
+- 👨‍💻 All of my projects are available at [(https://portfolio-chi-lilac-19.vercel.app/)]
 
 - 📝 I regularly write articles on [https://massmediaagency.infinityfreeapp.com/](https://massmediaagency.infinityfreeapp.com/)
 
